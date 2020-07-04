@@ -6,11 +6,7 @@
 
 When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
 ```
-git clone https://github.com/udacity/CppND-Route-Planning-Project.git --recurse-submodules
-```
-or with SSH:
-```
-git clone git@github.com:udacity/CppND-Route-Planning-Project.git --recurse-submodules
+git clone https://github.com/ahmedfathy17/Route-Planning-Project.git --recurse-submodules
 ```
 
 ## Dependencies for Running Locally
